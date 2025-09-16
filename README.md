@@ -1,14 +1,10 @@
-# Run and deploy your AI Studio app
+# Skyblock AH Flipeer
 
-This contains everything you need to run your app locally.
+**Deployed LIVE at [_skyblock-ah-flipper.netlify.app_](skyblock-ah-flipper.netlify.app)**
 
-## Run Locally
+Coded with Typescript + React + Node + Vite + Tailwind + whatever
 
-**Prerequisites:**  Node.js
+LOOKING FOR 👀 -> devs with experience in svelte cuz im too lazy to learn it
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+i forgor how does the ah flipper worked so i rewrote it
+never use javascript its too slow
