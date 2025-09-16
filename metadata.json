@@ -1,0 +1,6 @@
+{
+  "name": "Hypixel Flip Finder",
+  "description": "A live Hypixel SkyBlock flip finder. It identifies profitable opportunities by sniping auction house items and finding bazaar flips based on algorithmic analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
